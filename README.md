@@ -28,3 +28,6 @@ Packages: pandas, NumPy, Matplotlib, seaborn, folium, json, sklearn, pylab, stat
 * Used elbow technique to prepare data for cluster analysis using k-means algorithm.
 * Tested data for stationarity using Dickey-Fuller test and autocorrelation plots.
 * Differenced data to ensure stationarity before conducting time-series analysis.
+
+## Purpose & Context
+I independently sourced relevant and reliable datasets to uncover insights on college football including which regions and states have the most highschool talent, and what regions and schools recruit the most talent. As well as make recommendations on which positions are most valueable and command the most resources.
