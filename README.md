@@ -16,3 +16,15 @@ This project uses the recruiting years from 2018 until the third quarter of 2023
 statistics will cover the NCAA season starting in 2017 through 2022 as the 2023 season has yet to finish. In 
 order to be successful in this project we will have to assume college football teams each individually recruit 
 at a relatively static level over time. 
+
+## Tools & Skills
+Tableau
+
+Python Version: 3.11
+Packages: pandas, NumPy, Matplotlib, seaborn, folium, json, sklearn, pylab, statsmodels
+* Executed data wrangling and cleaning operations prior to analysis.
+* Conducted geospatial analysis using a shapefile to create a choropleth map.
+* Performed linear regression analysis and analyzed model performance statistics.
+* Used elbow technique to prepare data for cluster analysis using k-means algorithm.
+* Tested data for stationarity using Dickey-Fuller test and autocorrelation plots.
+* Differenced data to ensure stationarity before conducting time-series analysis.
